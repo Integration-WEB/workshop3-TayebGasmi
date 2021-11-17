@@ -19,6 +19,7 @@ body {
 
 
 
+
 /*============= FOOTER =============*/
 
 
@@ -64,6 +65,9 @@ body {
 }
 /* Devices under 768px (md) */
 @media (max-width: 768px) {
+.caption{
+  top:30%;
+}
   
 }
 /* Devices under 576px (sm) */
